@@ -18,7 +18,10 @@ This is a clean and modern web-based **Tic-Tac-Toe game** built using **HTML**, 
 
 ## 📸 Screenshots
 
+![Tic-Tac-Toe Screenshot2](Screenshot2.png)
+![Tic-Tac-Toe Screenshot3](Screenshot3.png)
 ![Tic-Tac-Toe Screenshot](screenshot.png) <!-- (You can add a screenshot.png file here later) -->
+
 
 ## 📂 How to Use
 
