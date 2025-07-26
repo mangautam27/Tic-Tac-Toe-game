@@ -1,0 +1,9 @@
+{
+  "liveServer.settings.port": 5503,
+  "liveServer.settings.root": "/",
+  "liveServer.settings.ignoreFiles": [
+    "**/*.ts",
+    "**/*.md"
+  ],
+  "files.autoSave": "onWindowChange"
+}
