@@ -25,3 +25,11 @@ This is a clean and modern web-based **Tic-Tac-Toe game** built using **HTML**, 
 1. Clone the repository:
    ```bash
    git clone https://github.com/mangautam27/Tic-Tac-Toe-game.git
+2. Open index.html in your browser.
+
+3. Enter the names of both players.
+
+4. Start playing!
+
+🙌 Author
+Made with ❤️ by Man Gautam
